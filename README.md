@@ -21,8 +21,8 @@ Imagen receta 1 --> Nombre de la receta y breve descripción, debajo un resumen 
 Imagen receta 2 --> Nombre de la receta y breve descripción, debajo un resumen rápido de la preparación. Junto un botón que amplíe los detalles de la receta
 
 ### - Wireframe
- Página principal: ![Página principal](./wireframe/Página%201.png)
- Página secundaria:![Página recetas](./wireframe/Página%202.png)
+ Página principal: ![Página principal](./wireframe/pagina1.png)
+ Página secundaria:![Página recetas](./wireframe/pagina2.png)
 
 ## - Diseño UI
 
